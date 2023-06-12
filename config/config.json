@@ -1,0 +1,10 @@
+{
+  "host": "your_host",
+  "database": "your_database",
+  "user": "your_user",
+  "password": "your_password",
+  "port": "your_port",
+  "ssl_mode": "require",
+  "database_url": "your_database_url",
+  "elasticsearch_url": "your_elasticsearch_url"
+}
